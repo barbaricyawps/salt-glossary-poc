@@ -2,7 +2,7 @@
 name: Salt Glossary POC
 
 description: >-
-  (Give your register a description)
+  A proof of concept glossary for Salt terms.
 
 # Glossarist gets the list of supported languages from this value.
 # Each key is a 3-letter ISO 639-2 T language code.
